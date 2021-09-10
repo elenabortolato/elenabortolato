@@ -1,3 +1,3 @@
 layout: page
 title: "Welcome"
-permalink: elenabortolato.github.io/welcome/
+permalink: https://elenabortolato.github.io/welcome/
